@@ -1,0 +1,9 @@
+{
+  "name": "Badge_Frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}

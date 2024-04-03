@@ -1,0 +1,34 @@
+[
+	{
+		"anonymous": false,
+		"inputs": [
+			{
+				"indexed": false,
+				"internalType": "string[]",
+				"name": "DataOnTheBoard",
+				"type": "string[]"
+			}
+		],
+		"name": "Published",
+		"type": "event"
+	},
+	{
+		"inputs": [
+			{
+				"internalType": "string[]",
+				"name": "broadcastData",
+				"type": "string[]"
+			}
+		],
+		"name": "Broadcast",
+		"outputs": [
+			{
+				"internalType": "string[]",
+				"name": "",
+				"type": "string[]"
+			}
+		],
+		"stateMutability": "payable",
+		"type": "function"
+	}
+]
